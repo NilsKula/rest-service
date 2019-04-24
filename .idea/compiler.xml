@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="io.codelex.restservice.main" target="1.8" />
+      <module name="io.codelex.restservice.test" target="1.8" />
+      <module name="restservice.main" target="1.8" />
+      <module name="restservice.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
